@@ -138,23 +138,25 @@ Status: 🛠️ Building & Learning
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
+    height="180"
+  />
+</p>
 
-  <!-- GITHUB STATS & MOST USED LANGUAGES -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarkarbivas9832-creator&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarkarbivas9832-creator&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Most Used Languages" />
-
-  <br/><br/>
-
-  <!-- STREAK STATS -->
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=sarkarbivas9832-creator&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
+</p>
 
 ### 📬 Connect With Me
 
